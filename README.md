@@ -1,4 +1,3 @@
-# Quote_generator-refresh
 
 # Quote Generator on refresh 
 
